@@ -13,7 +13,7 @@ return [
 	'app/controller'=>'Controller\\',
 	'app/model'=>'Model\\',
 	'app/view'=>'View\\',
-	'vendor/lk/framework/src'=>'Framework\\',
-	'vendor/yp/framework/src'=>'Framework\\'
+	'vendor/wst/framework/src'=>'Framework\\',
+	'vendor/wst2/framework/src'=>'Framework\\'
 
 ];
